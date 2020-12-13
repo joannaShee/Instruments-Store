@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "860600631242",
+    "project_id": "musiclending-8a793",
+    "storage_bucket": "musiclending-8a793.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860600631242:android:122265c92bf87a058e9933",
+        "android_client_info": {
+          "package_name": "com.example.instrumentstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860600631242-fgnh2fdfsq37ad8f6129v5kgr44f38f1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.instrumentstore",
+            "certificate_hash": "c2a759d99e7ec1b2836c6a40c9ba0783bea99bac"
+          }
+        },
+        {
+          "client_id": "860600631242-p452gc0j7vchbnapb3t4sua9umas1soi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG9EL6-Qr5yWGzfDcVr6xeUWvNfiFAeuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860600631242-p452gc0j7vchbnapb3t4sua9umas1soi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
